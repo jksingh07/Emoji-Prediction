@@ -17,6 +17,8 @@ Emoji Prediction is a machine learning model that can predict the most suitable 
 1. Clone the repository.
 2. Install the required libraries using pip:
 3. Copy code
-"""
-pip install tensorflow keras numpy nltk matplotlib seaborn
-"""
+``` pip install tensorflow keras numpy nltk matplotlib seaborn ```
+
+## Contributing
+
+Contributions are always welcome! If you have any suggestions or found a bug, please open an issue or submit a pull request.
